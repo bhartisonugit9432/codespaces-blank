@@ -1,1 +1,10 @@
 console.log("welcome back js");
+const accountId = 14426;
+let accountEmail = "sonu@gmail.com";
+var accountPassword = "12345";
+accountCity = "siddharth nagar";
+accountEmail = "bharti01@gmail.com";
+// accountId = 25480;
+accountCity = "lucknow";
+console.log(accountId);
+console.table([accountEmail, accountPassword, accountId, accountCity]);
